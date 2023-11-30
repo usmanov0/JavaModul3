@@ -1,0 +1,9 @@
+datasource.username=postgres
+datasource.password=123
+message=Anchor text (alternative terms: link text or reference text) is the text of a hyperlink.\
+        Якорный текст (альтернативные термины: текст ссылки или текст ссылки) - это текст гиперссылки.\
+        When posting messages you may wish to include some formatting such as bold text, italic text and underlined text.\
+        При написании сообщений Вы можете пожелать включить некоторые элементы форматирования, такие как жирный текст, курсивный текст и подчеркнутый текст.\
+        He could accept the text as proposed.\
+        Он мог бы согласиться с текстом в том виде, как он предложен.
+#comments with #
